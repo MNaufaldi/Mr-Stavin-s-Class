@@ -151,3 +151,7 @@ while flag == True:
     ask_question(q_calls_ez[0])
     del Lv_Display[-1]
     count += 1 #For question number purposes(aesthetic)
+    
+    
+    #https://gamefaqs.gamespot.com/gba/919785-who-wants-to-be-a-millionaire-2nd-edition/faqs/40044
+    #Question sources
