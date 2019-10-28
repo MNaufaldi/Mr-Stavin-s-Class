@@ -1,5 +1,7 @@
 #pygame assignment
 #%%
+Group mate = Rachel
+#%%
 1. What is pygame? Can you modify its source code?
 - pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games
 - yes you can
